@@ -5,6 +5,7 @@ This is a backend application for a voting system where users can vote for candi
 ## Features
 
 - User sign up and login with Aadhar Card Number and password
+- Users can access their profiles and change their passwords to enhance account security.
 - User can view the list of candidates
 - User can vote for a candidate (only once)
 - Admin can manage candidates (add, update, delete)
